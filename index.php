@@ -20,7 +20,6 @@
                <ul class="alignment">
                    <li class="nav__item"><a href="#banner" class="nav-link" >About me</a></li>
                    <li class="nav__item"><a href="#skills" class="nav-link">Skills</a></li>
-                   <li class="nav__item"><a href="#work" class="nav-link">Work Experience</a></li>
                    <li class="nav__item"><a href="#projects" class="nav-link">Projects</a></li>
                </ul>
            </div>
@@ -28,7 +27,6 @@
             <ul>
                 <li><a href="#banner" class="nav__link nav-link" >About me</a></li>
                 <li><a href="#skills" class="nav__link nav-link" >Skills</a></li>
-                <li><a href="#work" class="nav__link nav-link" >Work Experience</a></li>
                 <li><a href="#projects" class="nav__link nav-link">Projects</a></li>
             </ul>
          </div>
